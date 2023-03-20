@@ -26,6 +26,7 @@ const buildControl = (props) => {
             >
               Less
             </button>
+
             <button
               onClick={() => {
                 props.add(ctrl.type);
