@@ -1,3 +1,4 @@
+![](burgerapp.gif)
 
 ##This is a simple web application where you can customize and order your own burgers by adding your favorite ingredients. The app is built using React.js on the frontend and Firebase on the backend.
 
