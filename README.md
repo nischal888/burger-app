@@ -4,7 +4,9 @@
 
 ##Technologies Used
 
-Frontend: React.js, Redux, Redux Saga
+Frontend: React.js, Redux, Redux Saga, 
+
+
 Backend: Firebase
 
 ## Getting Started
