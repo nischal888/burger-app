@@ -40,3 +40,5 @@ Create a .env file in the project root and add your Firebase configuration:
 
 npm start
 
+Open http://localhost:3000 to view it in the browser
+
