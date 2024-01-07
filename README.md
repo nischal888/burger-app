@@ -16,7 +16,7 @@ Getting Started
 
 ### Clone the repository:
 
-git clone https://github.com/your-username/small-burger-app.git
+git clone https://github.com/nischal888/burger-app.git
 
 
 
