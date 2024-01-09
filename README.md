@@ -14,8 +14,6 @@ Backend: Firebase
 
 To run this project locally, follow these steps:
 
-Getting Started
-
 ### Clone the repository:
 
 git clone https://github.com/nischal888/burger-app.git
